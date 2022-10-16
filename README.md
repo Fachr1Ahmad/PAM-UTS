@@ -7,5 +7,5 @@
  * "expo-status-bar": "~1.4.0",
  * "expo-updates": "~0.14.6",
  
- ## Cara Pengintall-an Aplikasi
-Untuk menginstall aplikasi bisa didownload dulu [disini](https://drive.google.com/file/d/1YFJkNta5NGm_clkojiHEEJC02HUIoXSV/view?usp=sharing), setelah menginstall anda bisa untuk memakai aplikasi StopWatch Running
+ ## Cara Install Aplikasi
+Untuk menginstall aplikasi bisa didownload dulu [disini](https://drive.google.com/file/d/1YFJkNta5NGm_clkojiHEEJC02HUIoXSV/view?usp=sharing), setelah aplikasi di download, Install Aplikasi, dan anda bisa untuk memakai aplikasi StopWatch Running.
